@@ -1,0 +1,17 @@
+{
+    "name": "apas/yii2-angular-assets",
+    "description": "AngularJS Assets",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "require": {
+        "yiisoft/yii2": "*",
+
+        "bower-asset/angular" : "1.5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "apas\\angular\\": ""
+        }
+    }
+}
