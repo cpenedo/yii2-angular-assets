@@ -1,5 +1,5 @@
 <?php
-namespace apas\angular;
+namespace cpenedo\angular;
 
 use yii\web\AssetBundle;
 use yii\web\View;
